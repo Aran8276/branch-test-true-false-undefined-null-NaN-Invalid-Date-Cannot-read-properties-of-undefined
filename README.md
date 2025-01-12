@@ -1,1 +1,1 @@
-# branch-test-true-false-undefined-null-NaN-Invalid-Date-Cannot-read-properties-of-undefined
+# We're sorry but ${process.ENV.applicationName} doesn't work properly without JavaScript enabled. Please enable it to continue.
